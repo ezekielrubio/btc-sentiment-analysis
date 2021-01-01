@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setup(
 	name='btc-sentiment-analysis',
 	version='0.0.2',
-	autho='Diego Figueroa',
+	author='Diego Figueroa',
 	author_email='diegofigueroa79@gmail.com',
 	description='A small sentiment analysis library for bitcoin',
 	long_description=long_description,
